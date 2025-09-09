@@ -3333,8 +3333,8 @@ input, select, textarea {
 	}
 
 		#intro .img-container {
-  	    width: 200px;            /* Adjust size of the square */
-        height: 200px;           /* Equal width & height makes it a square */
+  	    width: 20px;            /* Adjust size of the square */
+        height: 20px;           /* Equal width & height makes it a square */
         margin: 0 auto 20px;     /* Center above intro, add spacing */
         overflow: hidden;        /* Ensures the image stays inside square */
         border-radius: 12px;     /* Optional: rounded corners */
@@ -4723,6 +4723,7 @@ input, select, textarea {
 		}
 
 	}
+
 
 
 
