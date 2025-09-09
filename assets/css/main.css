@@ -3342,8 +3342,8 @@ input, select, textarea {
 		}
 
 		#intro .img-container img {
-	        width: 100%;
-	        height: 100%;
+	        width: 10%;
+	        height: 10%;
 	        object-fit: cover;       /* Makes image cover the square perfectly */
 	        display: block;
 		}
@@ -4723,6 +4723,7 @@ input, select, textarea {
 		}
 
 	}
+
 
 
 
